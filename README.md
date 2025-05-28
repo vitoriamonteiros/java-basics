@@ -5,8 +5,12 @@ Repositório com meus estudos de Java. Cada aula está separada em arquivos dist
 ## 📚 Conteúdo
 
 - **Aula 01**  
-  Variáveis, saída de dados com `System.out.print`, formatação com `printf` e uso de `Locale` para formatação.  
-  Inclui um exercício prático de fixação.
+Variáveis, saída de dados com `System.out.print`, formatação com `printf` e uso de `Locale` para formatação.  
+Inclui um exercício prático de fixação.
+
+- **Aula 02**  
+Entrada de dados com a classe `Scanner`, leitura de diferentes tipos (String, int, double, char) e captura de múltiplos dados na mesma linha.
+
 
 *(Mais aulas serão adicionadas conforme o progresso dos estudos)*
 
